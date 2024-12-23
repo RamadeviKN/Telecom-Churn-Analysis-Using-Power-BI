@@ -44,6 +44,20 @@ Optimize targeted marketing campaigns for specific demographics.
 Improve service offerings based on churn trends.
 Analyze regional and service-based churn patterns for better resource allocation.
 
+📸 Sample Visuals
+
+![image](https://github.com/user-attachments/assets/e4105354-6462-4d72-b30f-ad2020721b94)
+
+![image](https://github.com/user-attachments/assets/03fe942d-5acb-4674-866e-161b3cd3c17c)
+
+📥 Getting Started
+
+Prerequisites to simulate the project:
+
+Power BI Desktop installed
+Access to Microsoft SQL Server
+Basic understanding of DAX and Power Query
+
 🚀 Future Enhancements
 
 🔄 Predictive Analytics: Integrate machine learning models to predict churn probabilities.
@@ -51,5 +65,8 @@ Analyze regional and service-based churn patterns for better resource allocation
 🌎 Market Segmentation Analysis: Deeper segmentation based on behavioral patterns.
 📝 Customer Feedback Integration: Correlate churn with customer satisfaction scores and reviews.
 📊 Scenario Analysis: Add "What-If" analysis to predict the impact of strategy changes.
+
+⭐ Support
+  If you found this project helpful, please give it a ⭐ on GitHub!
 
 Thanks to 365DataScience!
